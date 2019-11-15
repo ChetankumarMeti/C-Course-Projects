@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\03_Calc\main.c(22,1): warning C4005: 'TAXRATE_DEFINED': macro redefinition
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\03_Calc\main.c(4): message : see previous definition of 'TAXRATE_DEFINED'
+  03_Calc.vcxproj -> C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\x64\Debug\03_Calc.exe

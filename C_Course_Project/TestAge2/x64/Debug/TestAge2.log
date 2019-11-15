@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\TestAge2\main.c(9,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\TestAge2\main.c(10,12): warning C4013: 'atoi' undefined; assuming extern returning int
+  TestAge2.vcxproj -> C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\x64\Debug\TestAge2.exe

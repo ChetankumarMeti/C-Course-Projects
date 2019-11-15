@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\CharFunctions\main.c(18,22): warning C4013: 'strlen' undefined; assuming extern returning int
+  CharFunctions.vcxproj -> C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\x64\Debug\CharFunctions.exe

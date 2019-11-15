@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(6,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(6,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(7,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(7,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(10,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(11,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char (*)[6]'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(12,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'char (*)[6]'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(12,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'char **'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(12,9): warning C4313: 'printf': '%d' in format string conflicts with argument 4 of type 'char **'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(12,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 5 has type 'char *'
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\StringsAndAddresses\main.c(12,9): warning C4313: 'printf': '%d' in format string conflicts with argument 5 of type 'char *'
+  StringsAndAddresses.vcxproj -> C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\x64\Debug\StringsAndAddresses.exe

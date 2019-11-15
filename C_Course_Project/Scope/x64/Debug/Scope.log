@@ -1,0 +1,6 @@
+﻿  main.c
+  mystring.c
+  mystringutils.c
+  Generating Code...
+C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\Scope\main.c(33,6): warning C4101: 'stringpos': unreferenced local variable
+  Scope.vcxproj -> C:\Pointers\POINTERS-SOURCE-CODE\CSourceCode\CSourceCode\VisualStudio\CProjects\x64\Debug\Scope.exe
